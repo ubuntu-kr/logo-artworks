@@ -18,3 +18,9 @@
 
 영문 약칭 텍스트 (Ubuntu Korea)  
 <img src="UbuntuKrTitleShort.svg" height="100">
+
+## 특수 목적 로고
+
+2025년 20주년을 기념하는 로고입니다. 2025년에 열리는 행사의 포스터, 배너, 홈페이지, 게시글 및 굿즈 등에 사용할 수 있습니다.
+
+<img src="UbuntuKrCircle_20th_default.svg" height="100">
